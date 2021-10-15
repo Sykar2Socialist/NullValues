@@ -1,15 +1,6 @@
 questions = [
     {
-        "question": "Bananas should be free.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "If the bananas are free, no one will pick them up.",
+        "question": "Rich makes right.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -18,7 +9,16 @@ questions = [
         }
     },
     {
-        "question": "Each monkey has to find bananas on its own. ",
+        "question": "Greedy is a good personality!",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Let Social be equality is a literaly bad idea. ",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -72,7 +72,7 @@ questions = [
         }
     },
     {
-        "question": "Monkeys need a king.",
+        "question": "Party always right!.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "Monkeys must live in a society.",
+        "question": "Chaos is good!",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "The monkey tribes should compete with each other.",
+        "question": "Supervising people isn't immortal",
         "effect": {
             "econ": 0,
             "dipl": -10,
