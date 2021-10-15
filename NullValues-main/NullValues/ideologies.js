@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Anarcho-Communism",
+        "name": "TBD",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Communism",
+        "name": "TBD",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -18,7 +18,7 @@ ideologies = [
         }
     },
     {
-        "name": "Trotskyism",
+        "name": "TBD",
         "stats": {
             "econ": 100,
             "dipl": 100,
@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxism",
+        "name": "TBD",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "De Leonism",
+        "name": "TBD",
         "stats": {
             "econ": 100,
             "dipl": 30,
@@ -45,7 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Leninism",
+        "name": "TBD",
         "stats": {
             "econ": 100,
             "dipl": 40,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinism/Maoism",
+        "name": "TBD",
         "stats": {
             "econ": 100,
             "dipl": 20,
