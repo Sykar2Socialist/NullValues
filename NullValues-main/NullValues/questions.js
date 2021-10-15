@@ -18,16 +18,16 @@ questions = [
         }
     },
     {
-        "question": "Let Social be equality is a literaly bad idea. ",
+        "question": "Riches have to help poors. ",
         "effect": {
-            "econ": -10,
+            "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "The monkeys should become humans.",
+        "question": "Be Niceness, not Cruel.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Technology bad.",
+        "question": "Torturing people and let them feel pain is good.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -45,7 +45,7 @@ questions = [
         }
     },
     {
-        "question": "Monkeys should use spears.",
+        "question": "If there's death penalty, Gun shot is better than Ling Chi.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -54,12 +54,12 @@ questions = [
         }
     },
     {
-        "question": "Monkeys should walk on two legs.",
+        "question": "Humanitarianism isn't exist in my eyes.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
     {
@@ -108,7 +108,7 @@ questions = [
         }
     },
     {
-        "question": "Monkeys don't need authority. ",
+        "question": "I love liberty because it brings chaos. ",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -117,7 +117,7 @@ questions = [
         }
     },
     {
-        "question": "Monkey societies should have their own languages.",
+        "question": "Dead is the best way to leave the pain.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -126,7 +126,7 @@ questions = [
         }
     },
     {
-        "question": "Monkeys should have schools. ",
+        "question": "Forgive is a good personality. ",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "Monkey societies should be hierarchical.",
+        "question": "Controlling is a interesting.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -144,16 +144,16 @@ questions = [
         }
     },
     {
-        "question": "From each monkey according to its ability, to each monkey according to its needs.",
+        "question": "I love Lights and kind.",
         "effect": {
-            "econ": 10,
-            "dipl": -5,
+            "econ": 0,
+            "dipl": 5,
             "govt": 0,
-            "scty": 0
+            "scty": 10
         }
     },
     {
-        "question": "Monkeys should live on trees.",
+        "question": "A painful Society is acceptable.",
         "effect": {
             "econ": 0,
             "dipl": 0,
