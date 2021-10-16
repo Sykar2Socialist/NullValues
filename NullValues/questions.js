@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "Rich monkeys should pay taxes.",
+        "question": "Rich people should pay taxes to government, then government will use that taxes to help poors.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -81,7 +81,16 @@ questions = [
         }
     },
     {
-        "question": "Monkeys must have equal roles in society.",
+        "question": "I wanna be controlled.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Chaos is good!",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -90,20 +99,11 @@ questions = [
         }
     },
     {
-        "question": "Chaos is good!",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
         "question": "Supervising people isn't immortal",
         "effect": {
             "econ": 0,
-            "dipl": -10,
-            "govt": 0,
+            "dipl": 0,
+            "govt": -10,
             "scty": 0
         }
     },
